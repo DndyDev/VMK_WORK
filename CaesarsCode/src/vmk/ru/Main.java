@@ -7,9 +7,11 @@ public class Main {
     public static void main(String[] args) {
         String alphabet = "АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯaбвгдежзиклмнопрстуфхцчшщъыьэюя";
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите строку");
+        String string = scanner.nextLine();
+        System.out.println("Ведите шаг кодировки");
         int step = scanner.nextInt();
-        String string = "Привет мир";
-//        int buffer;
+
         for (int i = 0; i < string.length(); i++){
              int buffer = alphabet.indexOf(string.charAt(i)); //
              if(buffer == -1) {
