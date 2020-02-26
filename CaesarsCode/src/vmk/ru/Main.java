@@ -1,5 +1,4 @@
 package vmk.ru;
-
 import java.util.Scanner;
 
 public class Main {
@@ -13,7 +12,7 @@ public class Main {
         int step = scanner.nextInt();
 
         for (int i = 0; i < string.length(); i++){
-             int buffer = alphabet.indexOf(string.charAt(i)); //
+             int buffer = alphabet.indexOf(string.charAt(i));
              if(buffer == -1) {
                  System.out.print(string.charAt(i));
              } else{
