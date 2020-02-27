@@ -15,6 +15,6 @@ public class ReadHeadDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("It's really read head duck !");
+        System.out.println("It's real read head duck !");
     }
 }

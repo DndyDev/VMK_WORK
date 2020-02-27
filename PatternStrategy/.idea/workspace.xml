@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2878a464-372f-4646-a214-bb79511c8220" name="Default Changelist" comment="" />
+    <list default="true" id="2878a464-372f-4646-a214-bb79511c8220" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/ShootBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/TecVihicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ReadHeadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ReadHeadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/MoveBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/ShootBehavior.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,7 +50,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,20 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.vmk.goodCode.Main" />
-      <module name="PatternStrategy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.vmk.goodCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.vmk.badCode.Main" />
       <module name="PatternStrategy" />
@@ -80,9 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vmk.goodCode.Main" />
+      <module name="PatternStrategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vmk.goodCode.ducks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -99,7 +111,9 @@
       <updated>1582747674843</updated>
       <workItem from="1582747679863" duration="5879000" />
       <workItem from="1582782217770" duration="8018000" />
-      <workItem from="1582807969520" duration="507000" />
+      <workItem from="1582807969520" duration="1042000" />
+      <workItem from="1582823809794" duration="6519000" />
+      <workItem from="1582842681588" duration="17000" />
     </task>
     <servers />
   </component>

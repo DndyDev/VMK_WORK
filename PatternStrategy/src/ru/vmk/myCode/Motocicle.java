@@ -1,4 +1,5 @@
 package ru.vmk.myCode;
 
-interface TecVihicle  {
+public class Motocicle {
+
 }
