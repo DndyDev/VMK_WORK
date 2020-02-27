@@ -1,8 +1,8 @@
 package ru.vmk.badCode.ducks;
 
-import ru.vmk.badCode.generaly.Duck;
-import ru.vmk.badCode.interfaces.Flyable;
-import ru.vmk.badCode.interfaces.Quackable;
+import ru.vmk.badCode.Duck;
+import ru.vmk.badCode.Flyable;
+import ru.vmk.badCode.Quackable;
 
 public class ReadHeadDuck extends Duck implements Quackable, Flyable {
     @Override

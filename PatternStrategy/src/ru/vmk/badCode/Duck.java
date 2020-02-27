@@ -1,4 +1,4 @@
-package ru.vmk.goodCode.generaly;
+package ru.vmk.badCode;
 
 public abstract class Duck {
     public  void swim() {

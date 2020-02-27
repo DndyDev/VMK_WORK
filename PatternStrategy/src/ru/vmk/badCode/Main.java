@@ -1,4 +1,4 @@
-package ru.vmk.goodCode.generaly;
+package ru.vmk.badCode;
 
 import ru.vmk.badCode.ducks.MallardDuck;
 import ru.vmk.badCode.ducks.ReadHeadDuck;

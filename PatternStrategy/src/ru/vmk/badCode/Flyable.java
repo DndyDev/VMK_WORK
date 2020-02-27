@@ -1,4 +1,4 @@
-package ru.vmk.badCode.interfaces;
+package ru.vmk.badCode;
 
 public interface Flyable {
     void fly();

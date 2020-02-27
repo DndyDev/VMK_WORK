@@ -1,7 +1,7 @@
 package ru.vmk.badCode.ducks;
 
-import ru.vmk.badCode.generaly.Duck;
-import ru.vmk.badCode.interfaces.Quackable;
+import ru.vmk.badCode.Duck;
+import ru.vmk.badCode.Quackable;
 
 public class RubberDuck extends Duck implements Quackable {
     @Override
