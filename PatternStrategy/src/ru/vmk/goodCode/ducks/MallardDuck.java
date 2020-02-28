@@ -8,8 +8,8 @@ import ru.vmk.goodCode.quackInterfaces.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck(){
-        QuackBehavior quack = new Quack();
-        FlyBehavior fly = new FlyWithWings();
+        quackBehavior = new Quack();
+        flyBehavior = new FlyWithWings();
     }
     @Override
     public void display() {

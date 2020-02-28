@@ -2,18 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2878a464-372f-4646-a214-bb79511c8220" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Crane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/GoBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/SoudBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/BuildingVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/CitiVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/NoWheelsNeeded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/NotGraber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/OnWheels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOFF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaesarsCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaesarsCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaesarsCode/out/production/CaesarsCode/vmk/ru/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CaesarsCode/out/production/CaesarsCode/vmk/ru/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/ModelDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/ModelDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/ReadHeadDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/ReadHeadDuck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/ShootBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/TecVihicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Motocicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/TecVehical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ModelDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ReadHeadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ReadHeadDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/MoveBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/ShootBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Motocicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/TecVehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/GrabBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Vehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Vehical.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +60,7 @@
   <component name="ProjectId" id="1YMLmRTjcZgLqG1uSkCz66YSFXd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/vmk/goodCode" />
@@ -69,7 +89,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vmk.goodCode.Main" />
+      <module name="PatternStrategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vmk.goodCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.vmk.badCode.Main" />
       <module name="PatternStrategy" />
@@ -95,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -114,6 +148,9 @@
       <workItem from="1582807969520" duration="1042000" />
       <workItem from="1582823809794" duration="6519000" />
       <workItem from="1582842681588" duration="17000" />
+      <workItem from="1582873825667" duration="307000" />
+      <workItem from="1582881723268" duration="2676000" />
+      <workItem from="1582884760943" duration="4841000" />
     </task>
     <servers />
   </component>

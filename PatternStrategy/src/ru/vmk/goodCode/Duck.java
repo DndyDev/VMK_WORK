@@ -1,10 +1,11 @@
 package ru.vmk.goodCode;
 
 public abstract class Duck {
-    FlyBehavior flyBehavior;
-    QuackBehavior quackBehavior;
+    protected FlyBehavior flyBehavior;
+    protected QuackBehavior quackBehavior;
 
     public Duck() {
+
     }
 
     public void setFlyBehavior(FlyBehavior flyBehavior) {

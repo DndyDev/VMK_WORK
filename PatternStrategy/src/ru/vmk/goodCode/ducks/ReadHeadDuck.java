@@ -8,8 +8,8 @@ import ru.vmk.goodCode.quackInterfaces.Quack;
 
 public class ReadHeadDuck extends Duck {
     public ReadHeadDuck(){
-        QuackBehavior quack = new Quack();
-        FlyBehavior fly = new FlyWithWings();
+         quackBehavior = new Quack();
+         flyBehavior = new FlyWithWings();
     }
 
 

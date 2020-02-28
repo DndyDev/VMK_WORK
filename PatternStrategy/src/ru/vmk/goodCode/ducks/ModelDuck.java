@@ -8,8 +8,8 @@ import ru.vmk.goodCode.quackInterfaces.Quack;
 
 public class ModelDuck extends Duck {
     public ModelDuck() {
-       FlyBehavior flyBehavior = new FlyNoWay();
-        QuackBehavior quackBehavior = new Quack();
+        flyBehavior = new FlyNoWay();
+        quackBehavior = new Quack();
     }
 
     @Override
