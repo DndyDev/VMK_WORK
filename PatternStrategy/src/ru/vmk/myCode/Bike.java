@@ -1,12 +1,12 @@
 package ru.vmk.myCode;
 
-import ru.vmk.myCode.abstracts.CitiVehical;
+import ru.vmk.myCode.abstracts.CityVehicle;
 import ru.vmk.myCode.interfaces.OnWheels;
-import ru.vmk.myCode.interfaces.SoundOFF;
+import ru.vmk.myCode.interfaces.SoundOff;
 
-public class Bike extends CitiVehical {
+public class Bike extends CityVehicle {
     public Bike(){
-         sound = new SoundOFF();
+         sound = new SoundOff();
          go = new OnWheels();
     }
 

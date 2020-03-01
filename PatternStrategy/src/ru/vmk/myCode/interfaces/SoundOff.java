@@ -2,10 +2,10 @@ package ru.vmk.myCode.interfaces;
 
 import ru.vmk.myCode.SoudBehavior;
 
-public class SoundOFF implements SoudBehavior {
+public class SoundOff implements SoudBehavior {
 
     @Override
     public void sound() {
-        System.out.println("Beep-beep");
+        System.out.println("<<Silence>>");
     }
 }

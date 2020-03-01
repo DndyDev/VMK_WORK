@@ -6,6 +6,6 @@ import ru.vmk.myCode.SoudBehavior;
 import ru.vmk.myCode.Vehical;
 
 public abstract class BuildingVehicle extends Vehical {
-     protected GrabBehavior grab;
+     public GrabBehavior grab;
     public BuildingVehicle(){}
 }

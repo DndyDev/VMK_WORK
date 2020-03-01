@@ -1,20 +1,35 @@
 package ru.vmk.myCode;
 
 import ru.vmk.myCode.abstracts.BuildingVehicle;
-import ru.vmk.myCode.abstracts.CitiVehical;
+import ru.vmk.myCode.abstracts.CityVehicle;
+import ru.vmk.myCode.interfaces.NoWheelsNeeded;
 
 public class Main {
     public static void main(String[] args) {
-        CitiVehical bike = new Bike();
-        CitiVehical car = new Car();
+        CityVehicle bike = new Bike();
+        CityVehicle car = new Car();
 
-        BuildingVehicle Crane = new Crane();
-        BuildingVehicle Excavator = new Excavator();
+        BuildingVehicle crane = new Crane();
+        BuildingVehicle excavator = new Excavator();
 
-        bike.
+        bike.display();
+        bike.go.go();
+        bike.setGo(new NoWheelsNeeded());
+//        bike.sound.sound();
+//        System.out.println();
 
-
-
-
+//        car.display();
+//        car.setGo(new NoWheelsNeeded());
+//        System.out.println();
+//
+//        crane.display();
+//        crane.go.go();
+//        crane.grab.grab();
+//        System.out.println();
+//
+//        crane.display();
+//        excavator.go.go();
+//        excavator.grab.grab();
+//        System.out.println();
     }
 }

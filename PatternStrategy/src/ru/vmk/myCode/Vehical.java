@@ -7,4 +7,7 @@ public abstract class Vehical {
     public Vehical(){}
     public abstract void display();
 
+    public void setGo(GoBehavior go) {
+        this.go = go;
+    }
 }
