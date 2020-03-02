@@ -1,5 +1,5 @@
 package ru.vmk.myCode;
 
-public interface SoudBehavior {
+public interface SoundBehavior {
     void sound();
 }

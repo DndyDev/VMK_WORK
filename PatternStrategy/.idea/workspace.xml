@@ -3,25 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="2878a464-372f-4646-a214-bb79511c8220" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/MallardDuck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Bike.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Crane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Crane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Excavator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Excavator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/SoudBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/abstracts/BuildingVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/abstracts/BuildingVehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/abstracts/CitiVehical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/abstracts/CityVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/abstracts/CityVehicle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/interfaces/SoundOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/interfaces/SoundOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/interfaces/SoundOn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/myCode/interfaces/SoundOn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/MallardDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Bike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Crane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Crane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Excavator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Excavator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Vehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Vehical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/SoundBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/SoundBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/BuildingVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/BuildingVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/CitiVehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/CityVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/CityVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/abstracts/CityVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/myCode/interfaces/SoundOn.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,7 +95,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vmk.badCode.Main" />
+      <module name="PatternStrategy" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.vmk.myCode.Main" />
       <module name="PatternStrategy" />
       <extension name="coverage">
@@ -106,12 +118,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ru.vmk.badCode.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vmk.myCode.Main" />
       <module name="PatternStrategy" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vmk.myCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,8 +147,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +171,8 @@
       <workItem from="1582881723268" duration="2676000" />
       <workItem from="1582884760943" duration="8503000" />
       <workItem from="1582955981487" duration="1281000" />
-      <workItem from="1583068235990" duration="2841000" />
+      <workItem from="1583068235990" duration="6107000" />
+      <workItem from="1583133924280" duration="3013000" />
     </task>
     <servers />
   </component>

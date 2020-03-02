@@ -6,8 +6,8 @@ import ru.vmk.myCode.interfaces.SoundOff;
 
 public class Bike extends CityVehicle {
     public Bike(){
-         sound = new SoundOff();
-         go = new OnWheels();
+         soundBehavior = new SoundOff();
+         goBehavior = new OnWheels();
     }
 
     @Override

@@ -6,8 +6,8 @@ import ru.vmk.myCode.interfaces.OnWheels;
 
 public class Excavator extends BuildingVehicle {
     public Excavator(){
-         grab = new Graber();
-         go = new OnWheels();
+         grabBehavior = new Graber();
+         goBehavior = new OnWheels();
     }
 
     @Override

@@ -1,10 +1,10 @@
 package ru.vmk.myCode;
 
-public abstract class Vehical {
+public abstract class Vehicle {
     protected GoBehavior goBehavior;
 
 
-    public Vehical() {
+    public Vehicle() {
     }
 
     public abstract void display();

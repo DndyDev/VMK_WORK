@@ -1,8 +1,8 @@
 package ru.vmk.myCode.interfaces;
 
-import ru.vmk.myCode.SoudBehavior;
+import ru.vmk.myCode.SoundBehavior;
 
-public class SoundOff implements SoudBehavior {
+public class SoundOff implements SoundBehavior {
 
     @Override
     public void sound() {

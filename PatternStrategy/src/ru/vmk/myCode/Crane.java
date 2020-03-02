@@ -6,8 +6,8 @@ import ru.vmk.myCode.interfaces.NotGraber;
 
 public class Crane extends BuildingVehicle {
     public Crane(){
-         go = new NoWheelsNeeded();
-         grab = new NotGraber();
+         goBehavior = new NoWheelsNeeded();
+         grabBehavior = new NotGraber();
     }
     @Override
     public void display() {
