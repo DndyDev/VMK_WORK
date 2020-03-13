@@ -5,11 +5,7 @@ import ru.vmk.makduck.additivies.Cucumbers;
 import ru.vmk.makduck.additivies.Tomato;
 import ru.vmk.makduck.burgers.HamBurger;
 
-/**
- * Считаем калории,если слишком много, то ругаемся
- * и просим изменить состав.
- * 3000 kkl
- */
+
 public class Main {
     public static void main(String[] args) {
         BMR sergey = new BMR(183, 70, 19);
