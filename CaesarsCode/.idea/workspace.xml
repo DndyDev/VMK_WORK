@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ed82db-925b-4635-b2bd-587dd6b30460" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/Crane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/GoBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/SoudBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/abstracts/BuildingVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/abstracts/CitiVehical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/interfaces/NoWheelsNeeded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/interfaces/NotGraber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/interfaces/OnWheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/interfaces/SoundOFF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/interfaces/SoundOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CaesarsCode/vmk/ru/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CaesarsCode/vmk/ru/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PattermObserver/src/ru/vmk/ownCode/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PattermObserver/src/ru/vmk/ownCode/Robot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PatternStrategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/out/production/PatternStrategy/ru/vmk/myCode/TecVehical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/out/production/PatternStrategy/ru/vmk/myCode/Vehical.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/goodCode/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/goodCode/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/TecVehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/GrabBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/Vehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/src/ru/vmk/myCode/Vehical.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +123,7 @@
       <workItem from="1582881149906" duration="571000" />
       <workItem from="1582884402627" duration="76000" />
       <workItem from="1582884673657" duration="79000" />
+      <workItem from="1583487290638" duration="7000" />
     </task>
     <servers />
   </component>
