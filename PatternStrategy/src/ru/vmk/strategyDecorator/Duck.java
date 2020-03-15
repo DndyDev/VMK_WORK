@@ -1,4 +1,4 @@
-package ru.vmk.goodCode;
+package ru.vmk.strategyDecorator;
 
 public abstract class Duck {
     protected FlyBehavior flyBehavior;
@@ -22,8 +22,8 @@ public abstract class Duck {
         System.out.println("Duck swim");
     }
 
-    public void performFly() {
-        flyBehavior.fly();
+    public String performFly() {
+        return flyBehavior.fly();
     }
 
     public void performQuack() {

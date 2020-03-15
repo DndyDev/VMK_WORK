@@ -1,10 +1,8 @@
-package ru.vmk.goodCode.ducks;
+package ru.vmk.strategyDecorator.ducks;
 
-import ru.vmk.goodCode.Duck;
-import ru.vmk.goodCode.FlyBehavior;
-import ru.vmk.goodCode.QuackBehavior;
-import ru.vmk.goodCode.flyInterfaces.FlyWithWings;
-import ru.vmk.goodCode.quackInterfaces.Quack;
+import ru.vmk.strategyDecorator.Duck;
+import ru.vmk.strategyDecorator.flyInterfaces.FlyWithWings;
+import ru.vmk.strategyDecorator.quackInterfaces.Quack;
 
 public class ReadHeadDuck extends Duck {
     public ReadHeadDuck(){
