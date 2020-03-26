@@ -5,17 +5,11 @@ import ru.vmk.strategyDecorator.FlyBehavior;
 public class FlyRockedPowered extends FlyWithWings {
     FlyBehavior flyBehavior;
 
-    public FlyRockedPowered() {
-    }
-
+// Констурктор для переопределения поведения
     public FlyRockedPowered(FlyBehavior flyBehavior) {
         this.flyBehavior = flyBehavior;
     }
-
-    //    Duck duck;
-//    public FlyRockedPowered(Duck duck){
-//        this.duck = duck;
-//    }
+//
     @Override
     public String fly(){
         return flyBehavior.fly() + " Jet Duck";

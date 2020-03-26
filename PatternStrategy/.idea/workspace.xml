@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2878a464-372f-4646-a214-bb79511c8220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PatternDecorator/src/ru/vmk/lowercase/text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyRockedPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/quackInterfaces/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternDecorator/out/production/PatternDecorator/ru/vmk/lowercase/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternDecorator/out/production/PatternDecorator/ru/vmk/lowercase/InputTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternDecorator/out/production/PatternDecorator/ru/vmk/makduck/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternDecorator/out/production/PatternDecorator/ru/vmk/makduck/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternDecorator/out/production/PatternDecorator/text" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternDecorator/src/ru/vmk/lowercase/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternDecorator/src/ru/vmk/lowercase/InputTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternDecorator/src/ru/vmk/starbuzz/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternDecorator/src/ru/vmk/starbuzz/CondimentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternDecorator/src/text" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/FlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/FlyBehavior.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyNoWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyRockedPowered.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyRockedPowered.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyWithWings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/FlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/ducks/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/ducks/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/ducks/ReadHeadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/ducks/ReadHeadDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/flyInterfaces/FlyNoWay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/flyInterfaces/FlyRockedPowered.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/flyInterfaces/FlyWithWings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/quackInterfaces/MuteQuacke.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/quackInterfaces/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/quackInterfaces/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/goodCode/quackInterfaces/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/quackInterfaces/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/badCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/badCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyRockedPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyRockedPowered.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.vmk.badCode.Main" />
       <module name="PatternStrategy" />
@@ -157,7 +130,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -186,6 +158,9 @@
       <workItem from="1583408103821" duration="38000" />
       <workItem from="1583487299697" duration="1876000" />
       <workItem from="1584167048121" duration="13979000" />
+      <workItem from="1584441836967" duration="5426000" />
+      <workItem from="1584785812564" duration="2376000" />
+      <workItem from="1584793154669" duration="1056000" />
     </task>
     <servers />
   </component>
