@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ed82db-925b-4635-b2bd-587dd6b30460" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PattermObserver/src/ru/vmk/ownCode/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PattermObserver/src/ru/vmk/ownCode/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternStrategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternStrategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/MP3Codec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/MP4Codec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Turkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Turkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/WildTurkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/WildTurkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/RoundHole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/RoundHole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/RoundPeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/RoundPeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/SquarePeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/SquarePeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/FactoriesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/FactoriesFactory.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SnowFlake" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -124,6 +139,7 @@
       <workItem from="1582884402627" duration="76000" />
       <workItem from="1582884673657" duration="79000" />
       <workItem from="1583487290638" duration="7000" />
+      <workItem from="1586189699638" duration="35000" />
     </task>
     <servers />
   </component>

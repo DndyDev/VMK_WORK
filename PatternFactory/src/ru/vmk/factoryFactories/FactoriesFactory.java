@@ -1,5 +1,5 @@
 package ru.vmk.factoryFactories;
 
 public interface FactoriesFactory {
-    Factory createFactory(Car type);
+      Factory createFactory(Car type);
 }
