@@ -1,15 +1,11 @@
 package ru.vmk.sensors;
 
-public class Adapter extends FahrenheitSensor implements Sensor {
-    protected FahrenheitSensor fahrenheitSensor;
-
-    public Adapter() {
-
-    }
+public class Adapter  implements Sensor {
+    private FahrenheitSensor fahrenheitSensor = new FahrenheitSensor();
 
     @Override
     public double getTemperature() {
-        return (getFahrenheitTemp() -32.0)*5.0/9.0;
+        return fahrenheitSensor.getFahrenheitTemp() * 5.0 / 9.0;
     }
 
     @Override

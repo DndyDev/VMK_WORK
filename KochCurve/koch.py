@@ -22,10 +22,9 @@ def Draw(x, y, l, u, t):
 
 
 if __name__ == '__main__':
-    width = 1000
+    width = 300
 
-
-    win = GraphWin("Drawgit  a KochCurve", width, width/2)
-    Draw(0, width/2, width, 0, 100)
-    win.getKey()
+    win = GraphWin("Draw  a Koch curve", width, width / 2)
+    Draw(0, width / 2, width, 0, 100)
+    win.getMouse()
     win.close()

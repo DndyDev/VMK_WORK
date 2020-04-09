@@ -1,5 +1,7 @@
 package task_5;
-
+/*
+Переписать класс Query, используя вместо него внешний интерфейс IQuery, содержащий статический метод printToLog.
+ */
 public class User {
     private String login;
     private int password;

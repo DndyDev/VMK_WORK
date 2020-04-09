@@ -7,9 +7,10 @@ package ru.vmk.sensors;
  * Так как доступ к защищённому методу через указатель запрещён.
  */
 public class Main {
+
     public static void main(String[] args) {
         Sensor sensor = new Adapter();
         sensor.adjust();
-        System.out.println("Celsius temperature" + sensor.getTemperature());
+        System.out.println("Celsius temperature " + sensor.getTemperature());
     }
 }
