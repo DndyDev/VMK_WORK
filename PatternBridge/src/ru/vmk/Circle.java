@@ -34,11 +34,11 @@ public class Circle extends Shape {
 
     @Override
     public void draw() {
-
+        drawer.drawCircle(x,y,radius);
     }
 
     @Override
     public void enlargeRadius(int multiplier) {
-
+        radius *= multiplier;
     }
 }

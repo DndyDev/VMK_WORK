@@ -5,6 +5,6 @@ public class LargeCircleDrawer implements Drawer {
 
     @Override
     public void drawCircle(int x, int y, int radius) {
-        System.out.println("Large circle center = "+ x + "," + y + "radius = " + radius * radiusMultiplier);
+        System.out.println("Large circle center = "+ x + "," + y + " radius = " + radius * radiusMultiplier);
     }
 }
