@@ -1,4 +1,4 @@
-package ru.vmk.figures;
+package ru.vmk.graphics;
 
 import java.util.ArrayList;
 import java.util.List;

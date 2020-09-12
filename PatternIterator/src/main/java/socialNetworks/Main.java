@@ -14,10 +14,10 @@ public class Main {
         String choice = scanner.nextLine();
 
         SocialNetwork network;
-        if (choice.equals("2")) {
-            network = new LinkedIn(createTestProfiles());
-        } else {
+        if (choice.equals("1")) {
             network = new Facebook(createTestProfiles());
+        } else {
+            network = new LinkedIn(createTestProfiles());
         }
 
         SocialSpammer spammer = new SocialSpammer(network);

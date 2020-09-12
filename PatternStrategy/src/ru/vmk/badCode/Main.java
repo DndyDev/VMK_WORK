@@ -7,9 +7,13 @@ import ru.vmk.badCode.ducks.RubberDuck;
 public class Main {
 
     public static void main(String[] args) {
-        Duck mallard = new MallardDuck();
-        Duck readHeadDuck = new ReadHeadDuck();
-        Duck rubberDuck = new RubberDuck();
+//        Duck mallard = new MallardDuck();
+//        Duck readHeadDuck = new ReadHeadDuck();
+//        Duck rubberDuck = new RubberDuck();
+
+        MallardDuck mallard = new MallardDuck();
+        ReadHeadDuck readHeadDuck = new ReadHeadDuck();
+        RubberDuck rubberDuck = new RubberDuck();
 
         mallard.display();
         readHeadDuck.display();

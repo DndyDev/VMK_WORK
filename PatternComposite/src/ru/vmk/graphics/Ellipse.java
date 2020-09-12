@@ -1,4 +1,4 @@
-package ru.vmk.figures;
+package ru.vmk.graphics;
 
 public class Ellipse implements Graphic {
 

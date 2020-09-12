@@ -2,25 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ed82db-925b-4635-b2bd-587dd6b30460" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/Adapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/MP3Codec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/MP4Codec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Codec/Video.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/Turkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/Turkey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Ducks/WildTurkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/ducks/WildTurkey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/RoundHole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/RoundHole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/RoundPeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/RoundPeg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/Figures/SquarePeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternAdapter/src/ru/vmk/figures/SquarePeg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/FactoriesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/FactoriesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdvancedEuclideanAlgorithm/.idea/AdvancedEuclideanAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatternBuilder/PatternBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/SOLID.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvancedEuclideanAlgorithm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedEuclideanAlgorithm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KochCurve/.idea/KochCurve.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../KochCurve/.idea/KochCurve.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KochCurve/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KochCurve/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/LongInt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHelmanAlgorytm/DiffiHelmanAlgorytm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/out/production/LongInt/ru/vmk/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/out/production/LongInt/ru/vmk/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/src/ru/vmk/BigPow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/src/ru/vmk/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/src/ru/vmk/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Graphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Graphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/src/main/java/socialNetworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/src/main/java/socialNetworks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/META-INF/PatternIterator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Iterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeHouseMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeHouseMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Waitress.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Waitress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/socialNetworks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/socialNetworks/Main.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +57,20 @@
   </component>
   <component name="ProjectId" id="1Y5SZ1RGc6b5yNml7AX7lkaltod" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SnowFlake" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -53,18 +81,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tikho\VMK_WORK\CaesarsCode\src\vmk\ru" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -140,23 +156,24 @@
       <workItem from="1582884673657" duration="79000" />
       <workItem from="1583487290638" duration="7000" />
       <workItem from="1586189699638" duration="35000" />
+      <workItem from="1590095192667" duration="1224000" />
+      <workItem from="1590107961841" duration="2520000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

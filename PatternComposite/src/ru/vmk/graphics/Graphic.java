@@ -1,5 +1,5 @@
-package ru.vmk.figures;
+package ru.vmk.graphics;
 
  interface Graphic {
-    public void print();
+     void print();
 }

@@ -2,19 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2878a464-372f-4646-a214-bb79511c8220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PatternFactory/src/ru/vmk/factoryFactories/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdvancedEuclideanAlgorithm/.idea/AdvancedEuclideanAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffiHelmanAlgorytm/DiffiHelmanAlgorytm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EuclidianAlgorithm/EuclidianAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam/Exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatternBuilder/PatternBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/SOLID.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvancedEuclideanAlgorithm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedEuclideanAlgorithm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaesarsCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaesarsCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KochCurve/.idea/KochCurve.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../KochCurve/.idea/KochCurve.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KochCurve/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KochCurve/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/LongInt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bernulli/Bernulli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/out/production/LongInt/ru/vmk/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/out/production/LongInt/ru/vmk/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/src/ru/vmk/BigPow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/src/ru/vmk/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongInt/src/ru/vmk/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Graphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Graphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternComposite/src/ru/vmk/graphics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/src/main/java/socialNetworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/src/main/java/socialNetworks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/META-INF/PatternIterator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/DinerMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Iterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeHouseMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeHouseMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/PancakeMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Waitress.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/pancakesAndDiners/Waitress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternIterator/target/classes/socialNetworks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PatternIterator/target/classes/socialNetworks/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/META-INF/PatternStrategy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/badCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/badCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/ModelDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/ducks/ReadHeadDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyNoWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyRockedPowered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/flyInterfaces/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/quackInterfaces/MuteQuacke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/quackInterfaces/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatternStrategy/ru/vmk/goodCode/quackInterfaces/Squeak.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/vmk/badCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/badCode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyRockedPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vmk/strategyDecorator/flyInterfaces/FlyRockedPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/.idea/image_processing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../image_processing/.idea/image_processing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../image_processing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/../image_processing/processing.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PatternStrategy" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +87,13 @@
   </component>
   <component name="ProjectId" id="1YMLmRTjcZgLqG1uSkCz66YSFXd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -53,19 +111,20 @@
       <recent name="C:\Users\tikho\VMK_WORK\PatternStrategy\src\ru\vmk\goodCode" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vmk.strategyDecorator.Main" />
+      <module name="PatternStrategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vmk.strategyDecorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.vmk.badCode.Main" />
       <module name="PatternStrategy" />
@@ -130,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -161,23 +221,47 @@
       <workItem from="1584441836967" duration="5426000" />
       <workItem from="1584785812564" duration="2376000" />
       <workItem from="1584793154669" duration="1056000" />
+      <workItem from="1591451458725" duration="1989000" />
+      <workItem from="1599640555873" duration="997000" />
+      <workItem from="1599824316753" duration="1470000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1591486902972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1591486902972" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1591486902971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1591486902971" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1591486902971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1591486902971" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1591486902972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1591486902972" />
+    <state x="65" y="0" key="new project wizard" timestamp="1599830008569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599830008569" />
   </component>
 </project>
