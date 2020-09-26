@@ -7,7 +7,7 @@ public class Main {
                 new Circle(new LargeCircleDrawer(),10,10,5 ),
                 new Circle(new SmallCircleDrawer(),30,100, 20)
         };
-        for(Shape next : shapes)  next.draw();к
+        for(Shape next : shapes)  next.draw();
 
     }
 }
