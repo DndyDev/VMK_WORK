@@ -2,6 +2,7 @@ from graphics import *
 from math import pi, sin, cos
 
 
+
 def Draw2(x, y, l, u, t):
     Draw(x, y, l, u, t)
     x = x + l * cos(u)

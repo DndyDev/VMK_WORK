@@ -9,6 +9,7 @@ public class CarFactory implements FactoriesFactory {
         return switch (type){
             case FORD -> new FordFactory();
             case TOYOTA -> new ToyotaFactory();
+
         };
     }
 }
