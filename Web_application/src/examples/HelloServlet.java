@@ -19,6 +19,7 @@ public class HelloServlet extends HttpServlet {
         String country = request.getParameter("country");
         String[] courses = request.getParameterValues("courses");
 
+
         try {
             writer.println("<p>Name: " + name + "</p>");
             writer.println("<p>Age: " + age + "</p>");
