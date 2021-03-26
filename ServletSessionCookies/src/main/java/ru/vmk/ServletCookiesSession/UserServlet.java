@@ -7,26 +7,47 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
 import java.sql.SQLException;
 @WebServlet("/user-servlet")
 public class UserServlet extends HttpServlet {
+    private UserDao userDao;
+    private String login;
+    private String password;
+    @Override
+    public void init() throws ServletException {
+        super.init();
+        try{
+            Class.forName("org.postgresql.Driver");
+            String loginDB = "postgres";
+            String passwordDB = "qwerty007";
+            String url = "jdbc:postgresql://localhost:5432/users";
+            Connection connection = DriverManager.getConnection(url, loginDB, passwordDB);
+            userDao = new UserDao(connection);
+        } catch (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+         login = req.getParameter("login");
+         password = req.getParameter("password");
+        User user = userDao.find(login);
+        if(user.getPassword().equals(password)){
+            req.setAttribute("user", user);
+            getServletContext().getRequestDispatcher("/loginSuccess.jsp").forward(req,resp);
+        }else{
+            PrintWriter out = resp.getWriter();
+            out.println("wrong login or password");
+        }
+
+    }
+
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String login = req.getParameter("login");
-        String password = req.getParameter("password");
 
-        try {
-             User user = UserDao.find(login);
-            if( user != null){
-                req.setAttribute("user", user);
-                getServletContext().getRequestDispatcher("/loginSuccess.jsp").forward(req,resp);
-            }else{
-                PrintWriter out = resp.getWriter();
-                out.println("wrong login or password");
-            }
-        } catch (SQLException throwables) {
-            throwables.printStackTrace();
-        }
 
     }
 }
