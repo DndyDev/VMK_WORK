@@ -2,9 +2,7 @@ package ru.vmk.ServletCookiesSession;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Connection;
@@ -37,6 +35,12 @@ public class UserServlet extends HttpServlet {
         User user = userDao.find(login);
         if(user.getPassword().equals(password)){
             req.setAttribute("user", user);
+            Cookie cookie = new Cookie("username",user.getLogin());
+            resp.addCookie(cookie);
+            HttpSession session = req.getSession();
+            session.setAttribute("url",req.getRequestURL());
+            session.setAttribute("user",user);
+
             getServletContext().getRequestDispatcher("/loginSuccess.jsp").forward(req,resp);
         }else{
             PrintWriter out = resp.getWriter();
