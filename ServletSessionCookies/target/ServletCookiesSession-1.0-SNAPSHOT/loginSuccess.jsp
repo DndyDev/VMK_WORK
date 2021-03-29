@@ -13,7 +13,7 @@
     <title>Hello there !</title>
 </head>
 <body>
-<% User user = (User) request.getAttribute("user");%>
+<% User user = (User) session.getAttribute("user");%>
 <h3> Hello <%=user.getName()%> !</h3>
 <a href="${pageContext.request.contextPath}/login.jsp">Logout</a>
 </body>

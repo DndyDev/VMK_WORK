@@ -32,14 +32,25 @@ public class UserServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
          login = req.getParameter("login");
          password = req.getParameter("password");
-        User user = userDao.find(login);
+
+         User user = userDao.find(login);
+
         if(user.getPassword().equals(password)){
-            req.setAttribute("user", user);
-            Cookie cookie = new Cookie("username",user.getLogin());
-            resp.addCookie(cookie);
+//            req.setAttribute("user", user);
             HttpSession session = req.getSession();
-            session.setAttribute("url",req.getRequestURL());
+            Cookie sessionId = new Cookie("Session_id",session.getId());
+            resp.addCookie(sessionId);
+
             session.setAttribute("user",user);
+
+            Cookie loginCookie = new Cookie("userLogin",user.getLogin());
+            Cookie passwordCookie = new Cookie("userPassword",user.getPassword());
+            loginCookie.setMaxAge(3600);
+            passwordCookie.setMaxAge(3600);
+            resp.addCookie(loginCookie);
+            resp.addCookie(passwordCookie);
+
+
 
             getServletContext().getRequestDispatcher("/loginSuccess.jsp").forward(req,resp);
         }else{

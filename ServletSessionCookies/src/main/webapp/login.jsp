@@ -12,8 +12,8 @@
 </head>
 <body>
 <form action="user-servlet">
-Login: <input id = "login" name ="login" type="text">
-Password: <input id ="password" name="password" type="password">
+    <label for="password">Login: </label><input id ="login" name="login" type="text">
+    <label for="password">Password: </label><input id ="password" name="password" type="password">
     <input type="submit" value="Login">
 </form>
 </body>
