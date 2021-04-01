@@ -11,15 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2174117b-15ef-4190-9cc1-5d510ce7cb94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/ImageServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/RemoveImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/loginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/loginSuccess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/picture.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/upload.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,18 +333,6 @@
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.44" />
       <item itemvalue="TomEE Server.TomEE 9.0.44" />
@@ -379,6 +358,8 @@
       <workItem from="1616713499059" duration="4319000" />
       <workItem from="1616718007205" duration="2996000" />
       <workItem from="1616957123094" duration="15362000" />
+      <workItem from="1617232979531" duration="39000" />
+      <workItem from="1617233188732" duration="2227000" />
     </task>
     <servers />
   </component>
