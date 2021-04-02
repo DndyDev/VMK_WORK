@@ -19,8 +19,8 @@ public class UserServlet extends HttpServlet {
         try{
             Class.forName("org.postgresql.Driver");
             String loginDB = "postgres";
-            String passwordDB = "qwerty007";
-            String url = "jdbc:postgresql://localhost:5432/users";
+            String passwordDB = "54484413310";
+            String url = "jdbc:postgresql://localhost:2002/students";
             Connection connection = DriverManager.getConnection(url, loginDB, passwordDB);
             userDao = new UserDao(connection);
         } catch (ClassNotFoundException | SQLException e) {
@@ -38,8 +38,8 @@ public class UserServlet extends HttpServlet {
         if(user.getPassword().equals(password)){
 //            req.setAttribute("user", user);
             HttpSession session = req.getSession();
-            Cookie sessionId = new Cookie("Session_id",session.getId());
-            resp.addCookie(sessionId);
+//            Cookie sessionId = new Cookie("Session_id",session.getId());
+//            resp.addCookie(sessionId);
 
             session.setAttribute("user",user);
 

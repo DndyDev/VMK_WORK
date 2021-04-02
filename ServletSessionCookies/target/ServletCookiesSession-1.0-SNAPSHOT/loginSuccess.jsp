@@ -1,4 +1,5 @@
 <%@ page import="ru.vmk.ServletCookiesSession.User" %>
+<%@ page import="ru.vmk.ServletCookiesSession.CurrentSession" %>
 <%--
 
   Created by IntelliJ IDEA.
@@ -14,7 +15,9 @@
 </head>
 <body>
 <% User user = (User) session.getAttribute("user");%>
+<% CurrentSession.getSession(response, request);%>
 <h3> Hello <%=user.getName()%> !</h3>
 <a href="${pageContext.request.contextPath}/login.jsp">Logout</a>
+<a href="${pageContext.request.contextPath}/ImageServlet">Captcha</a>
 </body>
 </html>

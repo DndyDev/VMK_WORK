@@ -1,3 +1,10 @@
+ru\vmk\ServletCookiesSession\image\Namespace.class
+ru\vmk\ServletCookiesSession\HomeServlet.class
+ru\vmk\ServletCookiesSession\image\CaptchaImageServlet.class
 ru\vmk\ServletCookiesSession\User.class
+ru\vmk\ServletCookiesSession\CurrentSession.class
+ru\vmk\ServletCookiesSession\MyCookies.class
 ru\vmk\ServletCookiesSession\UserDao.class
+ru\vmk\ServletCookiesSession\image\CaptchaImageServlet$Captcha.class
+ru\vmk\ServletCookiesSession\image\ImageServlet.class
 ru\vmk\ServletCookiesSession\UserServlet.class
