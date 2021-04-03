@@ -10,22 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2174117b-15ef-4190-9cc1-5d510ce7cb94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletSessionCookies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ServletSessionCookies.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/META-INF/ServletSessionCookies.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ServletSessionCookies.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/CurrentSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/CurrentSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/HomeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/HomeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/MyCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/MyCookies.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet$Captcha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet$Captcha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/ImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/ImageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/Namespace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/Namespace.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,57 +44,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="students: database" type="162271b6:PgImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="students: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="students: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="students: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="students@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="students: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="student: table" type="69fad909:PgImplModel$LocalTable" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -141,10 +92,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -327,18 +278,6 @@
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8000/ServletCookiesSession_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -444,25 +383,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="students@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="students@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@646fb32b" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="students@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@701b4b50" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -470,7 +390,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -497,10 +417,70 @@
       <workItem from="1617351598348" duration="7649000" />
       <workItem from="1617393775651" duration="3608000" />
       <workItem from="1617446533503" duration="3384000" />
+      <workItem from="1617458939873" duration="1674000" />
+      <workItem from="1617461072785" duration="222000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1024" height="2" key="GridCell.Tab.0.bottom" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.0.center" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.0.left" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.0.right" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.1.bottom" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.1.center" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.1.left" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.1.right" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.2.bottom" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.2.center" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.2.left" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="2" key="GridCell.Tab.2.right" timestamp="1617461029175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="2" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1617461197687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617461197687" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1617461087416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617461087416" />
   </component>
 </project>
