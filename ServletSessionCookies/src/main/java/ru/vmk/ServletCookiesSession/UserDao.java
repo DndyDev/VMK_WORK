@@ -6,7 +6,7 @@ import java.sql.*;
 
 public class UserDao {
 
-    private  Connection connection;
+    private final  Connection connection;
 
     public UserDao(Connection connection) {
         this.connection = connection;
@@ -29,8 +29,7 @@ public class UserDao {
             String name = set.getString("name");
             String login = set.getString("login");
             String password = set.getString("password");
-            user = new User(name,login,password);
-            user.setId(id);
+            user = new User( id,name,login,password);
 
 
         } catch (Exception exception) {

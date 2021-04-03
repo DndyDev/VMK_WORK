@@ -5,13 +5,12 @@ public class User {
     private String name;
     private String login;
     private String password;
-    private int userCounter = 0;
 
-    public User(String name, String login, String password) {
+    public User( int  id, String name, String login, String password) {
+        this.id = id;
         this.name = name;
         this.login = login;
         this.password = password;
-        userCounter++;
 
     }
 
@@ -21,9 +20,6 @@ public class User {
 
     public void setId(int id){
         this.id = id;
-        if (userCounter < id){
-            userCounter = id;
-        }
     }
 
     public String getName() {

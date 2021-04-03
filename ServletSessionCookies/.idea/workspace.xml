@@ -10,21 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2174117b-15ef-4190-9cc1-5d510ce7cb94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85/storage_v2/_src_/database/users.CI6mBg/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletSessionCookies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ServletSessionCookies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/loginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/loginSuccess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/lib/checker-qual-3.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/lib/postgresql-42.2.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ServletSessionCookies.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,6 +327,18 @@
         </option>
       </method>
     </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8000/ServletCookiesSession_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -457,7 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -482,84 +495,12 @@
       <workItem from="1617232979531" duration="39000" />
       <workItem from="1617233188732" duration="2227000" />
       <workItem from="1617351598348" duration="7649000" />
+      <workItem from="1617393775651" duration="3608000" />
+      <workItem from="1617446533503" duration="3384000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1617353746622">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617353746622" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617356698135">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617356698135" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1617353804456">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617353804456" />
-    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1617360079832">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617360079832" />
-    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1617360079832">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617360079832" />
-    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1617360079833">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1617360079833" />
-    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1617355948228">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1617355948228" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1617353835872">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617353835872" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1617351817952">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617351817952" />
+    <option name="version" value="3" />
   </component>
 </project>
