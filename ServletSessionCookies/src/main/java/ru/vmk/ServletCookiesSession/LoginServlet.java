@@ -9,7 +9,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 @WebServlet("/user-servlet")
-public class UserServlet extends HttpServlet {
+public class LoginServlet extends HttpServlet {
     private UserDao userDao;
     private String login;
     private String password;

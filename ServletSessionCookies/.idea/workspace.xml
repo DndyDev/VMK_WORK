@@ -10,23 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2174117b-15ef-4190-9cc1-5d510ce7cb94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ec546e64-ef34-489e-82d7-3c8f7e234d85.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletSessionCookies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ServletSessionCookies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/META-INF/ServletSessionCookies.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServletCookiesSession-1.0-SNAPSHOT/WEB-INF/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/CurrentSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/CurrentSession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/HomeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/HomeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/MyCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/MyCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/UserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet$Captcha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet$Captcha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/CaptchaImageServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/ImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/ImageServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/Namespace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/vmk/ServletCookiesSession/image/Namespace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/HomeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vmk/ServletCookiesSession/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/loginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/loginSuccess.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,6 +371,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -419,6 +412,8 @@
       <workItem from="1617446533503" duration="3384000" />
       <workItem from="1617458939873" duration="1674000" />
       <workItem from="1617461072785" duration="222000" />
+      <workItem from="1617911833082" duration="3308000" />
+      <workItem from="1617958546153" duration="4455000" />
     </task>
     <servers />
   </component>
@@ -426,61 +421,69 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1024" height="2" key="GridCell.Tab.0.bottom" timestamp="1617461029175">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617911896011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.0.center" timestamp="1617461029175">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617911896011" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1617960486224">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.0.left" timestamp="1617461029175">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617960486224" />
+    <state width="1024" height="249" key="GridCell.Tab.0.bottom" timestamp="1617962905012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.0.right" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617962905012" />
+    <state width="1024" height="249" key="GridCell.Tab.0.center" timestamp="1617962905010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.1.bottom" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617962905010" />
+    <state width="1024" height="249" key="GridCell.Tab.0.left" timestamp="1617962905008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.1.center" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617962905008" />
+    <state width="1024" height="249" key="GridCell.Tab.0.right" timestamp="1617962905011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.1.left" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617962905011" />
+    <state width="1024" height="249" key="GridCell.Tab.1.bottom" timestamp="1617962905015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.1.right" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617962905015" />
+    <state width="1024" height="249" key="GridCell.Tab.1.center" timestamp="1617962905014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.2.bottom" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617962905014" />
+    <state width="1024" height="249" key="GridCell.Tab.1.left" timestamp="1617962905012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.2.center" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617962905012" />
+    <state width="1024" height="249" key="GridCell.Tab.1.right" timestamp="1617962905014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.2.left" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617962905014" />
+    <state width="1024" height="249" key="GridCell.Tab.2.bottom" timestamp="1617962905018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
-    <state width="1024" height="2" key="GridCell.Tab.2.right" timestamp="1617461029175">
+    <state width="1024" height="249" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617962905018" />
+    <state width="1024" height="249" key="GridCell.Tab.2.center" timestamp="1617962905017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="2" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1617461029175" />
+    <state width="1024" height="249" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1617962905017" />
+    <state width="1024" height="249" key="GridCell.Tab.2.left" timestamp="1617962905016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="249" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1617962905016" />
+    <state width="1024" height="249" key="GridCell.Tab.2.right" timestamp="1617962905017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="249" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1617962905017" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1617461197687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617461197687" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1617461087416">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1617958928235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617461087416" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617958928235" />
   </component>
 </project>
