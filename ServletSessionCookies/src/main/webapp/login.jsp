@@ -11,7 +11,7 @@
     <title>Login page</title>
 </head>
 <body>
-<form action="user-servlet">
+<form action="login-servlet">
     <label for="password">Login: </label><input id ="login" name="login" type="text">
     <label for="password">Password: </label><input id ="password" name="password" type="password">
     <input type="submit" value="Login">

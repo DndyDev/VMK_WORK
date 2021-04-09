@@ -1,5 +1,7 @@
 package ru.vmk.ServletCookiesSession;
 
+import ru.vmk.ServletCookiesSession.image.Namespace;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
@@ -8,11 +10,12 @@ import java.io.PrintWriter;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-@WebServlet("/user-servlet")
+@WebServlet("/login-servlet")
 public class LoginServlet extends HttpServlet {
     private UserDao userDao;
     private String login;
     private String password;
+
     @Override
     public void init() throws ServletException {
         super.init();
